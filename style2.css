@@ -125,9 +125,9 @@ section .parag1 {
         font-size: 16px;
     }
 
-    button {
-        padding: 8px 15px;
-        font-size: 14px;
+    .container .box a {
+        padding: 10px 35px;
+        font-size: 22px;
     }
 }
 
