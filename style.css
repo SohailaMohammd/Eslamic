@@ -236,7 +236,6 @@ body {
 /*start home*/
 .home {
     text-align: center;
-    height: calc(110vh - 64px);
     position: relative;
     padding-top: 100px;
     padding-bottom: 100px;
