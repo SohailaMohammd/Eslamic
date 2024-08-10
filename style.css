@@ -210,7 +210,7 @@ body {
     }
 
     .header .links ul {
-        flex-direction: column;
+        flex-direction: column-reverse;
         gap: 35px;
 
         li {
