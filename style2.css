@@ -138,7 +138,7 @@ section .parag1 {
     }
 }
 
-@media (max-width: 353px) {
+@media (max-width:400px) {
     section .container {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
@@ -146,5 +146,9 @@ section .parag1 {
         padding: 54px;
         max-width: 1200px;
         margin: 0 auto;
+    }
+
+    .container .box a {
+        padding: 5px 34px;
     }
 }
