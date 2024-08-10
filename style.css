@@ -302,6 +302,7 @@ body {
 
                     span {
                         font-size: 30px;
+                        white-space: pre;
                     }
                 }
             }
