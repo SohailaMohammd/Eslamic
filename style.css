@@ -422,7 +422,7 @@ body {
     .container {
         h1 {
             color: var(--dark);
-            font-size: 60px;
+            font-size: 38px;
             text-align: center;
             font-weight: 800;
             letter-spacing: -3px;
