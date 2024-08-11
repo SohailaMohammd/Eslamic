@@ -52,7 +52,13 @@ body {
         padding-bottom: 20px;
         text-align: start;
         font-size: 22px;
-        line-height: 35px;
+        line-height: 46px;
+        /* font-family: "Scheherazade New", serif;
+        font-weight: 400;
+        font-style: normal;*/
+        font-family: "Scheherazade New", serif;
+        font-weight: 500;
+        font-style: normal;
     }
 }
 
