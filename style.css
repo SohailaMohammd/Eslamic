@@ -518,7 +518,7 @@ body {
                 img {
                     width: 100%;
                     border-radius: 50%;
-                    border: 7px solid var(--dark);
+                    border: 6px solid var(--dark);
                 }
             }
 
@@ -553,7 +553,7 @@ body {
                 img {
                     width: 100%;
                     border-radius: 50%;
-                    border: 7px solid var(--dark);
+                    border: 6px solid var(--dark);
                 }
             }
 
